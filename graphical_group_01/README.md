@@ -15,7 +15,7 @@ An overview of the project is available [here](https://github.com/fcole90/cc-cou
 
 ### Members:
 In alphabetical order:
-- ~~Babatunde Anafi~~ (_Abandoned_)
+- Babatunde Anafi
 - Fabio Colella
-- ~~Niclas Joswig~~ (_Abandoned_)
-- ~~Tu (Tony) Nguyen Tuan~~ (_Abandoned_)
+- Niclas Joswig
+- Tu (Tony) Nguyen Tuan
