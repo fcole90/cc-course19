@@ -1,9 +1,0 @@
-{
-    "module_name": "main",
-    "class_name": "RandomImageCreator",
-    "domain": "image",
-    "init_kwargs":
-    {
-      "resolution": [100, 100]
-    }
-}

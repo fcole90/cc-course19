@@ -1,3 +1,0 @@
-tensorflow>=1.12.0
-tensorflow-hub>=0.3.0
-google_images_download
